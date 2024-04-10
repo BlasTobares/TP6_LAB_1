@@ -15,6 +15,7 @@ public class TP6_LAB_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Prueva Panda");
     }
     
 }
